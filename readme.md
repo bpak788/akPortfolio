@@ -17,15 +17,13 @@
 
 6. *Configure Local and Remote Directory*
 
-7.*Make Branch*
+7. *Merge*
 
-8. *Merge*
-
-9. *Test*
+8. *Test*
   ######stageServer
 
-10. *Push to Staging Server*
+9. *Push to Staging Server*
   ###### git push stageServer master
 
-11. *Push to Production Server*
+10. *Push to Production Server*
   ###### git push prodServer master
