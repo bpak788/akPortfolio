@@ -17,7 +17,7 @@
 
 6. *Configure Local and Remote Directory*
 
-7. **
+7. *Add Branch*
 
 8. *Merge*
 
